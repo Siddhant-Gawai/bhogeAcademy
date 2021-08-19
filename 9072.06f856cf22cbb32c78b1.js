@@ -1,0 +1,1 @@
+(self.webpackChunkBhogeWeb=self.webpackChunkBhogeWeb||[]).push([[9072],{9072:(o,s,e)=>{"use strict";e.r(s),e.d(s,{ion_text:()=>l});var r=e(3150),t=e(7585),c=e(1269);const l=class{constructor(o){(0,r.r)(this,o)}render(){const o=(0,t.b)(this);return(0,r.h)(r.H,{class:(0,c.c)(this.color,{[o]:!0})},(0,r.h)("slot",null))}};l.style=":host(.ion-color){color:var(--ion-color-base)}"}}]);
